@@ -1,0 +1,19 @@
+{
+    "name": "rsportella/popper",
+    "description": "POPPER.JS",
+    "type": "Popper",
+    "authors": [
+        {
+            "name": "FEDERICO ZIVOLO",
+            "email": ""
+        },
+        {
+            "name": "RS PORTELLA",
+            "email": "rodolfosportella@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "[vendor]/[nome do repositorio]": "*"
+    }
+ }
