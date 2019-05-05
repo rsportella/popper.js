@@ -11,13 +11,13 @@
             "email": ""
         }
     ],
-  "contributors": [
-    {
-      "name": "RSPORTELLA",
-      "email": "rodolfosportella@gmail.com"
-    }
-  ],
+    "contributors": [
+      {
+        "name": "RSPORTELLA",
+        "email": "rodolfosportella@gmail.com"
+      }
+    ],
     "require": {
-        "php": ">=5.3.0",
+        "php": ">=5.3.0"
     }
  }
