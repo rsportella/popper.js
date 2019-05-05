@@ -1,19 +1,22 @@
 {
-    "name": "rsportella/popper",
+    "name": "popper.js",
     "description": "POPPER.JS",
     "type": "Popper",
+    "keywords":    ["popper", "javascript"],
+    "homepage":    "https://popper.js.org/",
+    "license":     ["MIT"],
     "authors": [
         {
             "name": "FEDERICO ZIVOLO",
             "email": ""
-        },
-        {
-            "name": "RS PORTELLA",
-            "email": "rodolfosportella@gmail.com"
         }
     ],
+  "contributors": [
+    {
+      "name": "RSPORTELLA",
+      "email": "rodolfosportella@gmail.com"
+    },
     "require": {
         "php": ">=5.3.0",
-        "[vendor]/[nome do repositorio]": "*"
     }
  }
