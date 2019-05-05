@@ -1,5 +1,5 @@
 {
-    "name": "popper",
+    "name": "rsportella/popper",
     "description": "POPPER.JS",
     "type": "Popper",
     "keywords":    ["popper", "javascript"],
