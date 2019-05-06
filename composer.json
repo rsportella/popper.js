@@ -11,6 +11,11 @@
             "name": "FEDERICO ZIVOLO"
         }
     ],
+    "packages": {
+          "vendor/package-name": {
+              "1.0.0": { @composer.json }
+          }
+      }
     "contributors": [
       {
         "name": "RSPORTELLA",
