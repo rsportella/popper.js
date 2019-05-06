@@ -2,7 +2,7 @@
     "name": "rsportella/popper",
     "description": "POPPER.JS",
     "type": "Popper",
-    "version": "1.0",
+    "version": "1.0.0",
     "keywords":    ["popper", "javascript"],
     "homepage":    "https://popper.js.org/",
     "license":     ["MIT"],
