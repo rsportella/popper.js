@@ -1,17 +1,8 @@
 {
-    "name": "rsportella/popper",
-    "description": "POPPER.JS",
-    "type": "Popper",
-    "version": "1.0.0",
-    "keywords":    ["popper", "javascript"],
-    "homepage":    "https://popper.js.org/",
-    "license":     ["MIT"],
-    "authors": [
-        {
-            "name": "FEDERICO ZIVOLO"
-        }
-    ],
-    "require": {
-        "php": ">=5.3.0"
-    }
- }
+  "name": "rsportella/popper",
+  "version": "1.0.0",
+  "dist": {
+    "url": "https://github.com/rsportella/popper.js.git",
+    "type": "javascript"
+  }
+}
