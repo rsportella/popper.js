@@ -11,17 +11,6 @@
             "name": "FEDERICO ZIVOLO"
         }
     ],
-    "packages": {
-          "vendor/package-name": {
-              "1.0.0": { @composer.json }
-          }
-      },
-    "contributors": [
-      {
-        "name": "RSPORTELLA",
-        "email": "rodolfosportella@gmail.com"
-      }
-    ],
     "require": {
         "php": ">=5.3.0"
     }
